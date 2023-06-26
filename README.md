@@ -1,2 +1,2 @@
-# Human-Computer-Interaction-
+# Human-Computer-Interaction-SKKU
 Human Computer Interaction  SKKU
